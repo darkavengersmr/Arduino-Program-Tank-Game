@@ -1,0 +1,10 @@
+Tank 1 pinouts (светлый)
+
+LF  RB   TL        GND
+RF  LB   FR   TR   PWR
+
+
+Tank 2 pinouts (темный)
+
+LF  RF   TL        GND
+LB  RB   TR   FR   PWR
